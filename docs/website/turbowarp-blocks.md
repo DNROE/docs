@@ -3,7 +3,7 @@ slug: /blocks
 hide_table_of_contents: true
 ---
 
-# TurboWarp Blocks
+# more sensing
 
 TurboWarp has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
 
@@ -11,7 +11,7 @@ NEW: TurboWarp now supports unsandboxed extensions which add new blocks! https:/
 
 ## is compiled? and is TurboWarp? {#is-compiled}
 
-![is compiled?](./assets/is-compiled.svg)
+![mouse up?](./assets/mouse-up.svg)
 
 See https://scratch.mit.edu/projects/414716080/
 
